@@ -6,6 +6,10 @@
         },
         {
             "type": "vcs",
+            "url": "https://github.com/assertchris/silverstripe-gridfieldversionedorderablerows"
+        },
+        {
+            "type": "vcs",
             "url": "https://github.com/assertchris/silverstripe-reflow"
         }
     ],

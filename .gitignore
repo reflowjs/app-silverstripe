@@ -3,8 +3,11 @@ vendor
 cms
 framework
 lumberjack
-sortablegridfield
 codeeditorfield
+keyboardshortcuts
+gridfieldmultiselect
+gridfieldextensions
+gridfieldversionedorderablerows
 reflow
 themes
 composer.lock
